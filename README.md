@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @anusalundi
+- 👀 I am interested in working in the IT field, specifically with Java (Spring Boot), Python (Data analysis, Pandas, Matplotlib) and/or Databases (MsAccess, SQLite etc)
+- 🌱 I am currently studying at the WoTech reskilling international course and independently taking TalTech's Databases I / Databases II courses
+- 💞️ I would like to cooperate with a company that values ​​employees who are willing to develop, eager to learn, hardworking, good companions to other team members and take life with pleasure and joy.
+- 📫 Contact me at anusalundi@gmail.com, LinkedIn: https://www.linkedin.com/in/anu-rand-salundi/
+- ⚡ Fun fact: I was a magician's assistant when I was 6 years old, who, among other things, made me "float in the air"
