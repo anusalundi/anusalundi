@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anusalundi
-- 👀 I am interested in working in the IT field, specifically with Java (Spring Boot), Python (Data analysis, Pandas, Matplotlib) and/or Databases (MsAccess, SQLite etc)
+- 👀 I am interested in working in the IT field, specifically with Python (Data analysis, Pandas, Matplotlib), Databases (MsAccess, SQLite, MS Excel, PostgreSQL)and/or Java (Spring Boot, APIs)   
 - 🌱 I am currently studying at the WoTech reskilling international course and independently taking TalTech's Databases I / Databases II courses
 - 💞️ I would like to cooperate with a company that values ​​employees who are willing to develop, eager to learn, hardworking, good companions to other team members and take life with pleasure and joy.
 - 📫 Contact me at anusalundi@gmail.com, LinkedIn: https://www.linkedin.com/in/anu-rand-salundi/
